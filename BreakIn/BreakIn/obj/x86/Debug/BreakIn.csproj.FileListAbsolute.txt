@@ -1,0 +1,137 @@
+C:\Users\T510\Dropbox\Cuban Rain\BS Electronics\Development\BreakIn\BreakIn\BreakIn\bin\Debug\BreakIn.exe
+C:\Users\T510\Dropbox\Cuban Rain\BS Electronics\Development\BreakIn\BreakIn\BreakIn\bin\Debug\BreakIn.pdb
+C:\Users\T510\Dropbox\Cuban Rain\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\T510\Dropbox\Cuban Rain\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Form1.resources
+C:\Users\T510\Dropbox\Cuban Rain\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Properties.Resources.resources
+C:\Users\T510\Dropbox\Cuban Rain\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\T510\Dropbox\Cuban Rain\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\T510\Dropbox\Cuban Rain\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.exe
+C:\Users\T510\Dropbox\Cuban Rain\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.pdb
+C:\Users\Jitterbug\Dropbox\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.exe
+C:\Users\Jitterbug\Dropbox\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.pdb
+C:\Users\Jitterbug\Dropbox\BS Electronics\Development\BreakIn\BreakIn\BreakIn\bin\Debug\BreakIn.exe
+C:\Users\Jitterbug\Dropbox\BS Electronics\Development\BreakIn\BreakIn\BreakIn\bin\Debug\BreakIn.pdb
+C:\Users\Jitterbug\Dropbox\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Form1.resources
+C:\Users\Jitterbug\Dropbox\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Properties.Resources.resources
+C:\Users\Jitterbug\Dropbox\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csproj.GenerateResource.Cache
+C:\Users\Jitterbug\Dropbox\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csprojResolveAssemblyReference.cache
+C:\Users\Jitterbug\Dropbox\BS Electronics\Development\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditUser.resources
+C:\Work\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.exe
+C:\Work\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.pdb
+C:\Work\BreakIn\BreakIn\BreakIn\bin\Debug\BreakIn.exe
+C:\Work\BreakIn\BreakIn\BreakIn\bin\Debug\BreakIn.pdb
+C:\Work\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditUser.resources
+C:\Work\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Form1.resources
+C:\Work\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Properties.Resources.resources
+C:\Work\BreakIn\BreakIn\BreakIn\obj\x86\Debug\BreakIn.MessageControl.resources
+C:\Work\BreakIn\BreakIn\BreakIn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Work\BreakIn\BreakIn\BreakIn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Work\BreakIn\BreakIn\BreakIn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Work\BreakIn\BreakIn\BreakIn\bin\Debug\NAudio.dll
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\BreakIn.exe
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\BreakIn.pdb
+C:\S58\BreakIn\BreakIn\bin\Debug\BreakIn.exe
+C:\S58\BreakIn\BreakIn\bin\Debug\BreakIn.pdb
+C:\S58\BreakIn\BreakIn\bin\Debug\NAudio.dll
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditUser.resources
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Form1.resources
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Properties.Resources.resources
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\BreakIn.MessageControl.resources
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditMessage.resources
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\BreakIn.DataTbl.resources
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.exe
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.pdb
+C:\bs_elec\BreakIn\BreakIn\bin\Debug\BreakIn.exe
+C:\bs_elec\BreakIn\BreakIn\bin\Debug\BreakIn.pdb
+C:\bs_elec\BreakIn\BreakIn\bin\Debug\NAudio.dll
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csprojResolveAssemblyReference.cache
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditMessage.resources
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditUser.resources
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.DataTbl.resources
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Form1.resources
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Properties.Resources.resources
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.MessageControl.resources
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csproj.GenerateResource.Cache
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Recorder.resources
+C:\bs_elec\BreakIn\BreakIn\bin\Debug\NAudio.xml
+C:\S58\BreakIn\BreakIn\bin\Debug\NAudio.xml
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Recorder.resources
+C:\S58\BreakIn\BreakIn\obj\x86\Debug\BreakIn.About.resources
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.About.resources
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\BreakIn.exe
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\BreakIn.pdb
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\bin\Debug\BreakIn.exe
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\bin\Debug\BreakIn.pdb
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\bin\Debug\NAudio.dll
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\bin\Debug\NAudio.xml
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\BreakIn.About.resources
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditMessage.resources
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditUser.resources
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\BreakIn.DataTbl.resources
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Form1.resources
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Properties.Resources.resources
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\BreakIn.MessageControl.resources
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Recorder.resources
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\BS_elec\bs_elec.2\BreakIn\BreakIn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\bs_elec\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csproj.ResolveComReference.cache
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csproj.ResolveComReference.cache
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.exe
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.pdb
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.About.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditMessage.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditUser.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.DataTbl.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Form1.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Properties.Resources.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.MessageControl.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Recorder.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\bin\Debug\BreakIn.exe
+C:\CubanRain\BIFS\BreakIn\BreakIn\bin\Debug\BreakIn.pdb
+C:\CubanRain\BIFS\BreakIn\BreakIn\bin\Debug\NAudio.dll
+C:\CubanRain\BIFS\BreakIn\BreakIn\bin\Debug\NAudio.xml
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.csproj.ResolveComReference.cache
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.exe
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.pdb
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.csprojResolveAssemblyReference.cache
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.About.resources
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.AddEditMessage.resources
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.AddEditUser.resources
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.DataTbl.resources
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.Form1.resources
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.Properties.Resources.resources
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.MessageControl.resources
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.Recorder.resources
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.csproj.GenerateResource.Cache
+C:\CubanRain\BIFS\BreakIn\bin\Debug\BreakIn.exe
+C:\CubanRain\BIFS\BreakIn\bin\Debug\BreakIn.pdb
+C:\CubanRain\BIFS\BreakIn\bin\Debug\NAudio.dll
+C:\CubanRain\BIFS\BreakIn\bin\Debug\NAudio.xml
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.AddEditSchedule.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditSchedule.resources
+C:\CubanRain\BIFS\BreakIn\obj\x86\Debug\BreakIn.ExportDialog.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csprojResolveAssemblyReference.cache
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.ExportDialog.resources
+C:\CubanRain\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csproj.GenerateResource.Cache
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.exe
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.pdb
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\bin\Debug\BreakIn.exe
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\bin\Debug\BreakIn.pdb
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\bin\Debug\NAudio.dll
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\bin\Debug\NAudio.xml
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.About.resources
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditMessage.resources
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditSchedule.resources
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditUser.resources
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.DataTbl.resources
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.ExportDialog.resources
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Form1.resources
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Properties.Resources.resources
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.MessageControl.resources
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Recorder.resources
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csproj.GenerateResource.Cache
+C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+INSTALLATION INSTRUCTIONS
+=========================
+
+1. Run bifs installer.
+2. If necessary, install the dot net framework dotNetfx40...
+3. Copy the recorded messages folder to C: drive.  C:\RecordedMessages will be the default folder for now.
+4. Check for the "bifs" shortcut on the desktop.
+
+NOTE 1:  If you do not have Microsoft Office and / or MS Access installed on the PC, you must also install AccessDatabaseEngine or AccessDatabaseEngine_64.
+
+NOTE 2:  You can only use the Logs Export function if you have Microsoft Excel installed.
