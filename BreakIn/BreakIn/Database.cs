@@ -407,14 +407,14 @@ namespace BreakIn
           List<string> list = new List<string>();
           string sql_str = "SELECT SettingName, SettingValue FROM tblSettings ORDER BY ID";
 
-          System.Data.DataTable dt =GetTable(sql_str);
+          System.Data.DataTable dt = GetTable(sql_str);
           if ((dt != null) && (dt.Rows.Count > 0))
           {
             for (int i = 0; i < dt.Rows.Count; i++)
             {
                 dr = dt.Rows[i];
                 if (dr.ItemArray[0].ToString() == "RelayComPort" && dr.ItemArray[1].ToString() == "")
-                    list.Add("COM99");
+                    list.Add("");
                 else
                     list.Add(dr["SettingValue"].ToString());
             }

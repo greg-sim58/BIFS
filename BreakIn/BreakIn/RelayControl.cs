@@ -25,22 +25,25 @@ namespace BreakIn
     }
     public static void OpenPort()
     {
-      try
-      {
-        RelayControl.SetPortName(ComPortName);// 
-        RelayPort.PortName = ComPortName;
-        RelayPort.DataBits = 8;
-        RelayPort.Parity = Parity.None;
-        RelayPort.StopBits = StopBits.One;
-        RelayPort.Open();
-      }
-      catch (Exception e)
-      {
+        if (ComPortName != null && ComPortName != "")
+        {
+            try
+            {
+                RelayControl.SetPortName(ComPortName);// 
+                RelayPort.PortName = ComPortName;
+                RelayPort.DataBits = 8;
+                RelayPort.Parity = Parity.None;
+                RelayPort.StopBits = StopBits.One;
+                RelayPort.Open();
+            }
+            catch (Exception ex)
+            {
                 //System.Windows.Forms.MessageBox.Show("SERIAL PORT ERROR\n\r" + e.Message);
-                throw;// new Exception(e);
-      }
+                throw ex;// new Exception(e);
+            }
+        }
     }
-
+ 
     private static void ClosePort()
     {
       if (RelayPort != null)

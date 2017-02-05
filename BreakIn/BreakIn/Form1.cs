@@ -101,7 +101,7 @@ namespace BreakIn
                 {
                     string PortName = list[(int)AppSettings.RelayComPort].ToString();
                     if (PortName == "" || PortName == null || !PortName.Contains("COM"))
-                        PortName = "COM99";
+                        PortName = "";// "COM99";
                     txtMessageFolder.Text = list[0].ToString();
                     Settings.RecordedMessageDir = txtMessageFolder.Text;
                     RelayControl.SetPortName(PortName);
@@ -126,6 +126,8 @@ namespace BreakIn
                         cmbPorts.SelectedIndex = i;
                 }
             }
+
+            btnTestRelay.Enabled = cmbPorts.Items.Count > 0;
             db = null;
         }
       public Form1()
@@ -354,23 +356,34 @@ namespace BreakIn
             {
                 Settings.RecordedMessageDir = txtMessageFolder.Text;
             }
-            RelayControl.OpenPort();
 
             var list = new List<KeyValuePair<string, string>>();
+            var comPortName = (cmbPorts.SelectedItem != null) ? cmbPorts.SelectedItem.ToString() : "";
 
-            list.Add(new KeyValuePair<string, string>("MessageFolder", txtMessageFolder.Text));
-            list.Add(new KeyValuePair<string, string>("RelayComPort", cmbPorts.SelectedItem.ToString()));
-            list.Add(new KeyValuePair<string, string>("Color1", cmbColor1.SelectedIndex.ToString()));
-            list.Add(new KeyValuePair<string, string>("Color2", cmbColor2.SelectedIndex.ToString()));
-            list.Add(new KeyValuePair<string, string>("Color3", cmbColor3.SelectedIndex.ToString()));
-            list.Add(new KeyValuePair<string, string>("Color4", cmbColor4.SelectedIndex.ToString()));
-            list.Add(new KeyValuePair<string, string>("SpeechDevice", cmbSpeechDevice.SelectedIndex.ToString()));
+            try
+            {
+                RelayControl.OpenPort();
+            }
+            catch (Exception ex)
+            {
+                lblErrorMsg.Text = ex.Message + " Please check and set the correct port under 'Settings'";
+            }
+            finally
+            {
+                list.Add(new KeyValuePair<string, string>("MessageFolder", txtMessageFolder.Text));
+                list.Add(new KeyValuePair<string, string>("RelayComPort", comPortName));
+                list.Add(new KeyValuePair<string, string>("Color1", cmbColor1.SelectedIndex.ToString()));
+                list.Add(new KeyValuePair<string, string>("Color2", cmbColor2.SelectedIndex.ToString()));
+                list.Add(new KeyValuePair<string, string>("Color3", cmbColor3.SelectedIndex.ToString()));
+                list.Add(new KeyValuePair<string, string>("Color4", cmbColor4.SelectedIndex.ToString()));
+                list.Add(new KeyValuePair<string, string>("SpeechDevice", cmbSpeechDevice.SelectedIndex.ToString()));
 
-            Database db = new Database();
-            db.ConnectToDb();
-            db.SaveSettings(list);
-            Cursor.Current = Cursors.Default;
-            tabcontrolMain.SelectedTab = tabAdminMenu;
+                Database db = new Database();
+                db.ConnectToDb();
+                db.SaveSettings(list);
+                Cursor.Current = Cursors.Default;
+                tabcontrolMain.SelectedTab = tabAdminMenu;
+            }
         }
 
         private void btnOperate_Click(object sender, EventArgs e)

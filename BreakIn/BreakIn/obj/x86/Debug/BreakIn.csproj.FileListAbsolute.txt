@@ -135,3 +135,20 @@ C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Mes
 C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Recorder.resources
 C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csproj.GenerateResource.Cache
 C:\Users\Greg\Downloads\root (1)\trunk\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csprojResolveAssemblyReference.cache
+C:\Development\BIFS\BreakIn\BreakIn\bin\Debug\BreakIn.exe
+C:\Development\BIFS\BreakIn\BreakIn\bin\Debug\NAudio.dll
+C:\Development\BIFS\BreakIn\BreakIn\bin\Debug\NAudio.xml
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.About.resources
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditMessage.resources
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditSchedule.resources
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditUser.resources
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.DataTbl.resources
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.ExportDialog.resources
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Form1.resources
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Properties.Resources.resources
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.MessageControl.resources
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Recorder.resources
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csproj.GenerateResource.Cache
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.exe
+C:\Development\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.pdb
+C:\Development\BIFS\BreakIn\BreakIn\bin\Debug\BreakIn.pdb
