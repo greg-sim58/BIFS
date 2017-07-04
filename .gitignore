@@ -1,0 +1,9 @@
+
+*.exe
+BreakIn/BreakIn/bin/Debug/BreakIn.pdb
+BreakIn/BreakIn/obj/x86/Debug/BreakIn.csproj.FileListAbsolute.txt
+BreakIn/BreakIn/obj/x86/Debug/BreakIn.csproj.GenerateResource.Cache
+BreakIn/BreakIn/obj/x86/Debug/BreakIn.csprojResolveAssemblyReference.cache
+BreakIn/BreakIn/obj/x86/Debug/BreakIn.pdb
+BreakIn/BreakIn/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+BreakIn/BreakIn/bin/Debug/bs_breakin.mdb
