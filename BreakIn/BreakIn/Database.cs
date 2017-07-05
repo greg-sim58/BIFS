@@ -384,16 +384,48 @@ namespace BreakIn
          */
         public int SaveSettings(List<KeyValuePair<string, string>> l)
         {
-          // first clear settings from tblSettings
-          ExecuteQry("DELETE FROM tblSettings");
+            int result = 0;
+            
+            string sql_str = "";
+            /*
+            // first clear settings from tblSettings
+            try
+            {
+                //-ExecuteQry("DELETE FROM tblSettings");
+            }
+            catch (Exception)
+            {
+
+//-                throw;
+            }
+            */
             foreach (var element in l)
             {
                 string fld = element.Key.ToString();
                 string val = element.Value.ToString();
-                string sql_str = "INSERT INTO tblSettings (SettingName, SettingValue) VALUES ('" + fld + "','" + val + "');";
-                ExecuteQry(sql_str);
+
+                Database db = new Database();
+                db.ConnectToDb();
+                sql_str = "SELECT * FROM tblSettings WHERE SettingName ='" + fld + "'";
+                System.Data.DataTable tbl = db.GetTable(sql_str);
+                if (tbl.Rows.Count > 0)
+                {
+                    var id = tbl.Rows[0]["Id"];
+                    sql_str = "UPDATE tblSettings SET '" + fld + "' = '" + val + "' where Id = " + id + ";";
+                    sql_str = "UPDATE tblSettings SET SettingValue = '" + val + "' where Id = " + id + ";";
+                }
+                else
+                {
+                    sql_str = "INSERT INTO tblSettings (SettingName, SettingValue) VALUES ('" + fld + "','" + val + "');";
+                }
+
+
+
+
+
+                result = ExecuteQry(sql_str);
             }
-            return 0;
+            return result;
         }
 
         /*

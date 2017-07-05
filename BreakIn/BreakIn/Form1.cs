@@ -365,10 +365,18 @@ namespace BreakIn
             list.Add(new KeyValuePair<string, string>("Color3", cmbColor3.SelectedIndex.ToString()));
             list.Add(new KeyValuePair<string, string>("Color4", cmbColor4.SelectedIndex.ToString()));
             list.Add(new KeyValuePair<string, string>("SpeechDevice", cmbSpeechDevice.SelectedIndex.ToString()));
+            try
+            {
+                Database db = new Database();
+                db.ConnectToDb();
+                db.SaveSettings(list);
+            }
+            catch (Exception)
+            {
 
-            Database db = new Database();
-            db.ConnectToDb();
-            db.SaveSettings(list);
+                //-throw;
+            }
+
             Cursor.Current = Cursors.Default;
             tabcontrolMain.SelectedTab = tabAdminMenu;
         }

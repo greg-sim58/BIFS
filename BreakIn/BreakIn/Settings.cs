@@ -27,8 +27,17 @@ namespace BreakIn
 
     public static void UpdateSettings(List<string> list)
     {
-        RecordedMessageDir = list[0].ToString();
-        RelayControl.SetPortName(list[1].ToString());
+            try
+            {
+                RecordedMessageDir = list[0].ToString();
+                RelayControl.SetPortName(list[1].ToString());
+            }
+            catch (Exception)
+            {
+
+                //-throw;
+            }
+        
     }
   }
 }

@@ -141,7 +141,6 @@ C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\bin\Debug\BreakIn.exe
 C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\bin\Debug\BreakIn.pdb
 C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\bin\Debug\NAudio.dll
 C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\bin\Debug\NAudio.xml
-C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csprojResolveAssemblyReference.cache
 C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.About.resources
 C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditMessage.resources
 C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.AddEditSchedule.resources
@@ -153,3 +152,4 @@ C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Pr
 C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.MessageControl.resources
 C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.Recorder.resources
 C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csproj.GenerateResource.Cache
+C:\Users\gadams23\Documents\GitHub\BIFS\BreakIn\BreakIn\obj\x86\Debug\BreakIn.csprojResolveAssemblyReference.cache
